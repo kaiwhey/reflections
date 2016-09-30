@@ -19,3 +19,7 @@ I can see the layout of all the branches and then trace the history
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 (1) A single branch is formed that contains the history of both branches
 (2) Because the 2 paths now become one.
+
+What are the pros and cons of Git's automatic merginv vs. always doing merges manually?
+(Pro) It is less tedious especially if the work is done on different parts of the files.
+(Con) They may be time where git will not be able to merge automatically.
